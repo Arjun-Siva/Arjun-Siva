@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Arjun-Siva, currently pursuing a Bachelor's degree in Computer Science & Engineering at SASTRA University, India.
+- 👋 Hi, I’m @Arjun-Siva, Software Engineer by day and masked vigilante by night.
 - 👀 I dabble in Web development and Machine learning
-- 💞️ I would love to collaborate on any web dev, app dev and machine learning projects
+- 💞️ I would love to collaborate on web dev and machine learning projects
 - 📫 Find me on https://www.linkedin.com/in/arjun-siva-s/
 
 <!---
